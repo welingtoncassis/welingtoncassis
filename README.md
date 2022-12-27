@@ -5,7 +5,6 @@
 
 ### About me
 - I’m currently learning everything :satisfied:
-- 2022 Goals: Contribute more to Open Source projects :metal:
 
 ### Connect with me:
 
