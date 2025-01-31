@@ -1,7 +1,6 @@
 # Hi, I'm Welington! :bowtie: 🇧🇷
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/welingtoncassis)](https://github.com/welingtoncassis)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welington-c-82924b134/)](https://www.linkedin.com/in/welington-c-82924b134/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welingtonvassis/)](https://www.linkedin.com/in/welingtoncassis/)
 
 ### Connect with me:
 
