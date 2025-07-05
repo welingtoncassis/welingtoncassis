@@ -1,33 +1,36 @@
-# Hi, I'm Welington! :bowtie: 🇧🇷
+# 👋 Hey there, I'm Welington Assis!
+**Architect of scalable solutions. Building robust cloud-native systems, one microservice at a time.**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welingtonvassis/)](https://www.linkedin.com/in/welingtoncassis/)
+![Node.js](https://img.shields.io/badge/Language-Node.js-informational?style=flat&logo=nodedotjs&color=339933)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
+![NestJS](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&color=E0234E)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 
-<br />
+As a **Senior Software Engineer**, I'm a positive, innovative thinker with a passion for **solving complex problems** and driving technological advancements. My expertise lies in crafting **scalable, cloud-native solutions** that significantly enhance system performance and user experience. I thrive on delivering impactful results that lead to tangible business benefits.
 
-### Languages and Tools:
+🌱 Continuously exploring new AWS and GCP services, distributed system architectures, and advancements in AI/ML for conversational interfaces.
 
-<p align="left">
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
-<img height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" alt="Node JS">
-<img alt="Nestjs" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" />
-<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" alt="Docker" />
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal">
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" alt="Amazon AWS" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL"/></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" alt="React JS" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" alt="Angular JS" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
+🚀 Dedicated to accelerating time-to-market and fostering innovation through clean code and robust design.
 
-</p>
+---
 
+### 💼 What I bring to the table:
 
+* **Backend & Microservices:** Node.js, NestJS, TypeScript, designing and implementing distributed systems.
+* **Cloud Architecture:** Extensive experience with **AWS** services (Lambda, DynamoDB, SQS, EC2, etc.), focusing on serverless and scalable solutions.
+* **AI & Chatbots:** Hands-on experience implementing conversational AI using **LLMs (Large Language Models)**, **Gemini**, and workflow automation with **n8n**.
+* **DevOps & Containerization:** Proficient in Docker, Kubernetes, and setting up efficient CI/CD pipelines.
+* **Impact-Driven Development:** Proven ability to deliver solutions that improve efficiency and user engagement.
 
-#
+---
 
+### 📞 Let's Connect!
 
+* **LinkedIn:** [linkedin.com/in/welingtonassis](https://www.linkedin.com/in/welingtonassis)
+* **Location:** Brazil
 
-[linkedin]: https://www.linkedin.com/in/welington-c-82924b134/
-[instagram]: https://instagram.com/owelingtoncruz
+---
